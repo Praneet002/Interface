@@ -19,8 +19,7 @@ After performing the functions display the remaining balance of the use.
 
 ## Program:
 ```
-NAME : NAVEEN KUMAR V
-Reg.No: 212221230068
+
 
 using System;
 public interface Bank
